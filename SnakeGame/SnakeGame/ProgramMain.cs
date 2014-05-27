@@ -72,8 +72,6 @@
             Position newSnakeHead;
 
             
-
-
             #endregion
 
             #region Directions
